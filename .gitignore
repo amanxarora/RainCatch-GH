@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Rhino & Grasshopper temporary files
+*.gh.bak
+*.3dm.bak
+*.tmp
+*.ghx.bak
+autosave/
+
+# Downloaded cache directory
+RainfallFiles/
+*.stat
+*.epw
+*.rain
+*.clm
+*.wea
+*.pvsyst
+*.ddy
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
